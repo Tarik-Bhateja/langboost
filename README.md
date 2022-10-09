@@ -16,13 +16,14 @@ We would like to thank everyone associated with TIE university and Innovation Mi
 
 * HTML and CSS
 * Bootstrap
+* Python
 
 
+## Links
 
-## Demo
-
-https://ssahibsingh.github.io/langboost
-
+* Website: https://ssahibsingh.github.io/langboost
+* Devpost Link: https://devpost.com/software/langboost
+* YouTube Video: https://www.youtube.com/watch?v=6OQqCGKr8fM
 
 ## Feedback
 
