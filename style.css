@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.main {
+  min-height: calc(100vh - 96px - 78px);
+}
+
+.logo {
+  width: 70px;
+}
+
+.offerings {
+  min-height: 60vh;
+}
+.practice {
+  min-height: 60vh;
+}
+
+.pricing-list {
+  min-height: 220px;
+}
