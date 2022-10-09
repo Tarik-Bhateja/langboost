@@ -18,6 +18,11 @@ We would like to thank everyone associated with TIE university and Innovation Mi
 * Bootstrap
 * Python
 
+#### Python Packages Used
+* Google Speech Recognition (For Speech to Text Conversion)
+* Natural Language Toolkit (For Accuracy)
+* Flair Model (For Sentiment Analysis)
+
 
 ## Links
 
