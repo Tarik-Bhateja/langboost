@@ -20,3 +20,11 @@
 .pricing-list {
   min-height: 220px;
 }
+
+
+.microphone:focus{
+  color: red;
+}
+.microphone:active{
+  color: red;
+}
